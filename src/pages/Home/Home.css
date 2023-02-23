@@ -1,0 +1,17 @@
+.tabFilm.active{
+    @apply text-white bg-violet-500;
+}
+.cumRap .ant-tabs-nav{
+    width: 35%;
+}
+.scrollbar::-webkit-scrollbar {
+    width: 3px;
+  }
+
+.scrollbar::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+    background-color: blue;
+}

@@ -1,0 +1,7 @@
+{
+    "hello": {
+        "1": "Hello",
+        "2": "Hi"},
+    "signin": "Sign in",
+    "signup": "Sign up"
+}

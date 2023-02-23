@@ -1,0 +1,7 @@
+.slick-prev:before, .slick-next:before{
+    color: gray !important;
+    font-size: 2rem !important;
+}
+.slick-next{
+    left: -40px;
+}
